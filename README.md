@@ -1,3 +1,5 @@
+# This project has been migrated into https://github.com/metaspace2020/metaspace/tree/master/metaspace/python-client
+
 # sm-analytics-python
 
 Python module that provides programmatic access to a running instance of [`METASPACE`](https://github.com/METASPACE2020/) platform
